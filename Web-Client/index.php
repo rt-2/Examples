@@ -27,31 +27,31 @@
 
 <body class="smooth-font">
 	<div id="content" class="container">
-	<header>
-		
-	</header>
-	<nav>
-		
-	</nav>
-	<aside>
-		
-	</aside>
-	<main>
+		<header>
 
-	This website is not using any image;<br />
+		</header>
+		<nav>
 
-	</main>
-	<footer>
-		
-		<div class="">
-			<div class="">&copy;</div>
-			<div class="">2010-<?php echo date("Y"); ?></div>
-			<div class="">Yanick<br />Coulombe</div>
-		</div>
-		
-		footer | Footer1 | <a href="#">href 1</a> | <a href="#">Old Website</a>
-		
-	</footer>
+		</nav>
+		<aside>
+
+		</aside>
+		<main>
+
+		This website is not using any image;<br />
+
+		</main>
+		<footer>
+
+			<div class="">
+				<div class="">&copy;</div>
+				<div class="">2010-<?php echo date("Y"); ?></div>
+				<div class="">Yanick<br />Coulombe</div>
+			</div>
+
+			footer | Footer1 | <a href="#">href 1</a> | <a href="#">Old Website</a>
+
+		</footer>
 	</div>
 </body>
 </html>
