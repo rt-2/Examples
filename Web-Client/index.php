@@ -22,6 +22,8 @@
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.2/less.min.js"></script>
+	
+    	<!--<script src="<?php echo $config['BASE_URL']; ?>scripts/antizoom-0.0.1.js"></script>-->
 
 </head>
 
