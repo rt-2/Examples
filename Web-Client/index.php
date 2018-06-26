@@ -18,6 +18,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo $config['BASE_URL']; ?>styles/base.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $config['BASE_URL']; ?>styles/fonts.css" />
 	<link rel="stylesheet/less" type="text/css" href="<?php echo $config['BASE_URL']; ?>styles/styles.less" />
+	<!-- <link rel="stylesheet" type="text/css" href="<?php echo $config['BASE_URL']; ?>styles/tests.css" /> -->
+	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.2/less.min.js"></script>
 
