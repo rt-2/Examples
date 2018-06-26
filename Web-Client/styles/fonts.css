@@ -1,3 +1,9 @@
+
+.smooth-font {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: fade(@body-textColor, 67%);
+}
+
 @font-face {
     font-family: "Font Name";
     src: url('./fonts/Font_Name.ttf');
