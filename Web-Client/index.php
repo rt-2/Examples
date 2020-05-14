@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <?php
     	require_once('./includes/config.inc.php');
 	/*
 		Some PHP code here
 	*/
-?><!DOCTYPE html>
+?>
 <html lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
