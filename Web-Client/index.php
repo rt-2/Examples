@@ -18,11 +18,11 @@
 	-->
 
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/5.0.0/sanitize.min.css" />
-	<link rel="stylesheet" type="text/css" href="styles/base.css" />
-	<link rel="stylesheet" type="text/css" href="styles/fonts.css" />
-	<link rel="stylesheet/less" type="text/css" href="styles/styles.less" />
+	<link rel="stylesheet" type="text/css" href="resources/css/base.css" />
+	<link rel="stylesheet" type="text/css" href="resources/css/fonts.css" />
+	<link rel="stylesheet/less" type="text/css" href="resources/css/styles.less" />
 	
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js"></script>
 	
 
