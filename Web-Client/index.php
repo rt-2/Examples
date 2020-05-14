@@ -22,8 +22,8 @@
 	<link rel="stylesheet" type="text/css" href="styles/fonts.css" />
 	<link rel="stylesheet/less" type="text/css" href="styles/styles.less" />
 	
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.2/less.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js"></script>
 	
 
 </head>
