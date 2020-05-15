@@ -17,15 +17,22 @@
 	<meta name="description" content="Description here" />
 	-->
 
+	<!-- Favicon(s) -->
+	<!-- With the help of https://realfavicongenerator.net/ -->
+	
+	<!-- Style(s) -->
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/5.0.0/sanitize.min.css" crossorigin="anonymous" />
 	<link rel="stylesheet" type="text/css" href="resources/css/base.css" />
 	<link rel="stylesheet" type="text/css" href="resources/css/fonts.css" />
 	<link rel="stylesheet/less" type="text/css" href="resources/css/styles.less" />
 	
+	<!-- Dependencie(s) -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" crossorigin="anonymous"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" crossorigin="anonymous"></script>
 	
+	<!-- Script(s) -->
 
+	
 </head>
 
 <body class="smooth-font">
