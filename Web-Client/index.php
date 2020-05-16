@@ -18,7 +18,7 @@
 	<!-- SEO(s) -->
 	<title><?=CONFIG['NAME']?> - <?=PAGE['TITLE']?></title>
 	<meta name="description" content="<?=CONFIG['DESCRIPTION']?>" />
-	<meta name="keywords" content="<?=implode(', ', CONFIG['KEYWORDS'])?>" />
+	<meta name="keywords" content="<?=CONFIG['KEYWORDS']?>" />
 
 	<!-- Favicon(s) -->
 	<!-- With the help of https://realfavicongenerator.net/ -->
