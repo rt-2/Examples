@@ -18,7 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/5.0.0/sanitize.min.css" crossorigin="anonymous" />
 	<link rel="stylesheet" type="text/css" href="resources/css/base.css" />
 	<link rel="stylesheet" type="text/css" href="resources/css/fonts.css" />
-	<link rel="stylesheet/less" type="text/css" href="resources/css/styles.less" />
+	<link rel="stylesheet/less" type="text/css" href="resources/css/example.style.less" />
 	
 	<!-- Dependencie(s) -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" crossorigin="anonymous"></script>
