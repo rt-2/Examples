@@ -49,3 +49,7 @@ a {
     cursor: pointer;
     user-select: none;
 }
+
+.clear {
+    clear: both;
+}
