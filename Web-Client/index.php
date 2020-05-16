@@ -1,4 +1,4 @@
-<?php include 'layouts/head.layout.inc.php'; ?>
+<!DOCTYPE html>
 <?php
     	require_once('./includes/config.inc.php');
 	// Init(s)
@@ -8,6 +8,7 @@
 	]);
 	//Var(s)
 ?>
+<?php include 'layouts/head.layout.inc.php'; ?>
 <main>
 
 This website is not using any image;<br />
