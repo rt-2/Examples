@@ -2,7 +2,7 @@
 
     // Init(s)
     //Includes
-    require_once(__DIR__.'/seo.inc.php');
+    require_once(__DIR__.'/seo.config.inc.php');
     //Constant(s)
     define('CONFIG', [
         'NAME' => $SEO_Name,
