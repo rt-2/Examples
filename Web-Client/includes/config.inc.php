@@ -6,7 +6,7 @@
     //Constant(s)
     define('CONFIG', [
         'NAME' => $SEO_Name,
-        'KEYWORDS' => $SEO_Keywords,
+        'KEYWORDS' => implode(', ', $SEO_Keywords),
         'DESCRIPTION' => $SEO_Description,
     ]);
     //Var(s)
