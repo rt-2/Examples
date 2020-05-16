@@ -12,10 +12,10 @@
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
 
-	<!--
-	<title>Title here</title>
-	<meta name="description" content="Description here" />
-	-->
+	<!-- SEO(s) -->
+	<title><?=CONFIG['NAME']?> - <?=PAGE['TITLE']?></title>
+	<meta name="description" content="<?=CONFIG['DESCRIPTION']?>" />
+	<meta name="keywords" content="<?=implode(', ', CONFIG['KEYWORDS'])?>" />
 
 	<!-- Favicon(s) -->
 	<!-- With the help of https://realfavicongenerator.net/ -->
