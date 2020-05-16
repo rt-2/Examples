@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <?php
     	require_once('./includes/config.inc.php');
-	/*
-		Some PHP code here
-	*/
+	// Init(s)
+	//Constant(s)
+	define('PAGE', [
+		'TITLE' => 'Welcome',
+	]);
+	//Var(s)
 ?>
 <html lang="en">
 <head>
