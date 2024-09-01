@@ -14,5 +14,5 @@
 This website is not using any image;<br />
 
 </main>
-<?php include 'layouts/head.layout.inc.php'; ?>
+<?php include 'layouts/foot.layout.inc.php'; ?>
 
